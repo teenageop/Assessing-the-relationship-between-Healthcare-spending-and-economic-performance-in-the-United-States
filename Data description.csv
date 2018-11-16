@@ -1,0 +1,19 @@
+Variable,Description,Source
+Year,Year,
+State/Region,State/Region,
+Population,State Population,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCPersonalHealthcare,Per Capita State Personal Health Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCHospital,Per Capita State Hospital Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCPhysician,Per Capita State Physician Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCOtherProfessionalService,Per Capita State Professional Service Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCHomeHealth,Per Capita State Home Health Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCNursing,Per Capita State Personal Health Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCDrugs,Per Capita State Drug Expenditures,https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+PCPersonalIncome,Per Capita Personal Income per State,https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=2#reqid=70&step=1&isuri=1
+PCEminushealthE,Per Capita Person Expenditures minus health expenditures,https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=2#reqid=70&step=1&isuri=2
+PCGDP,Per Capita GDP per state,https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=2#reqid=70&step=1&isuri=3
+%change in MFP,Percent Change in US Multifactor Productivity,https://www.bls.gov/lpc/data.htm
+Average Weekly hours worked,Average Weekly hours worked in the US,https://www.bls.gov/lpc/data.htm
+Total Hours Worked,Total Hours Worked in the US,https://www.bls.gov/lpc/data.htm
+"Labor Productivity (index, 2009 is base year)","US Labor Productivity (index, 2009 is base year)",https://www.bls.gov/lpc/data.htm
+Average hours per day spent purchasing goods & services,US Average hours per day spent purchasing goods & services,https://www.bls.gov/webapps/legacy/tusa_1tab1.htm
